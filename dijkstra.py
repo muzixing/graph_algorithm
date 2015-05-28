@@ -17,7 +17,7 @@ def dijkstra(graph,src):
         for v in visited:
              for d in nodes:
                 new_dist = graph[src][v] + graph[v][d]
-                if new_dist < distance:
+                if new_dist <= distance:
                     distance = new_dist
                     next = d
                     pre = v
