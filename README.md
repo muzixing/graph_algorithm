@@ -1,6 +1,6 @@
 #Graph algorithm
 
-This repository contain some classical graph algorithm like Dijkstra,Floyd.
+This repository contain some classical graph algorithms like Dijkstra,Floyd.
 
 
 ##Usage
